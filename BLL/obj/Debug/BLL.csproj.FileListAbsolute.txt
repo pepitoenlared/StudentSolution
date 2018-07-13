@@ -1,0 +1,9 @@
+c:\users\brayan-pc\documents\visual studio 2017\Projects\StudentSolution\BLL\bin\Debug\BLL.dll
+c:\users\brayan-pc\documents\visual studio 2017\Projects\StudentSolution\BLL\bin\Debug\BLL.pdb
+c:\users\brayan-pc\documents\visual studio 2017\Projects\StudentSolution\BLL\bin\Debug\BO.dll
+c:\users\brayan-pc\documents\visual studio 2017\Projects\StudentSolution\BLL\bin\Debug\DAL.dll
+c:\users\brayan-pc\documents\visual studio 2017\Projects\StudentSolution\BLL\bin\Debug\BO.pdb
+c:\users\brayan-pc\documents\visual studio 2017\Projects\StudentSolution\BLL\bin\Debug\DAL.pdb
+c:\users\brayan-pc\documents\visual studio 2017\Projects\StudentSolution\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+c:\users\brayan-pc\documents\visual studio 2017\Projects\StudentSolution\BLL\obj\Debug\BLL.dll
+c:\users\brayan-pc\documents\visual studio 2017\Projects\StudentSolution\BLL\obj\Debug\BLL.pdb
