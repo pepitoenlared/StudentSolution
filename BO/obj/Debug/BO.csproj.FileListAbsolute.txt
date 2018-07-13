@@ -1,0 +1,4 @@
+c:\users\brayan-pc\documents\visual studio 2017\Projects\StudentSolution\BO\bin\Debug\BO.dll
+c:\users\brayan-pc\documents\visual studio 2017\Projects\StudentSolution\BO\bin\Debug\BO.pdb
+c:\users\brayan-pc\documents\visual studio 2017\Projects\StudentSolution\BO\obj\Debug\BO.dll
+c:\users\brayan-pc\documents\visual studio 2017\Projects\StudentSolution\BO\obj\Debug\BO.pdb
