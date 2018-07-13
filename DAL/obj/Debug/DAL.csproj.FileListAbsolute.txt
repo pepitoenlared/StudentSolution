@@ -1,0 +1,7 @@
+c:\users\brayan-pc\documents\visual studio 2017\Projects\StudentSolution\DAL\bin\Debug\DAL.dll
+c:\users\brayan-pc\documents\visual studio 2017\Projects\StudentSolution\DAL\bin\Debug\DAL.pdb
+c:\users\brayan-pc\documents\visual studio 2017\Projects\StudentSolution\DAL\bin\Debug\BO.dll
+c:\users\brayan-pc\documents\visual studio 2017\Projects\StudentSolution\DAL\bin\Debug\BO.pdb
+c:\users\brayan-pc\documents\visual studio 2017\Projects\StudentSolution\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+c:\users\brayan-pc\documents\visual studio 2017\Projects\StudentSolution\DAL\obj\Debug\DAL.dll
+c:\users\brayan-pc\documents\visual studio 2017\Projects\StudentSolution\DAL\obj\Debug\DAL.pdb
